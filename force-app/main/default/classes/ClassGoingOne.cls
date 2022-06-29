@@ -9,5 +9,7 @@ public class ClassGoingOne {       //Class definition and body
       return myValue;
       
       //I don't want to go
+      
+      //Let me go
    }
 }
