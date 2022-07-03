@@ -9,8 +9,6 @@ public class ClassGoingOne {       //Class definition and body
    // do some calculation
       myValue = myValue+10;
       return myValue;
-     
-      //Let me go
 
    }
 }
